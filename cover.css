@@ -21,11 +21,9 @@
 body {
   text-align: center;
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
-  background-image: url('mid.png');
-  /*background-image: url('https://cdn.pixabay.com/photo/2021/09/25/15/24/heart-6655212_960_720.png');*/
+  background-image: url('https://cdn.pixabay.com/photo/2021/09/25/15/24/heart-6655212_960_720.png');
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 100vw ;
   font-family: 'Nanum Myeongjo', serif;
 
  
